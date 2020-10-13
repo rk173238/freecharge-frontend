@@ -1,0 +1,14 @@
+1.extract the given zipped file.
+2.have a look at the pictures provided in screenshots directory.
+3.open freecharge-frontend folder and open command prompt here.(considering node is already installed with set path) 
+4. run command:-npm i. (install node modules) and to finish it.
+5.command:-npm start.
+
+Above process should run the app at posr 3000.... "localhost:3000"
+
+
+start page contains itemlist in form of cards.
+click on any card and it will redirect to payment page.
+provide details and it will ask for otp.
+if otp is 123456 redirect to successpage else failure page.
+in 3 second it redirects to homepage.
